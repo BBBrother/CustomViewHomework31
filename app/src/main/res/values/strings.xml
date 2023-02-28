@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CustomViewHomework31</string>
+    <string name="increase">Увеличить</string>
+    <string name="decrease">Уменьшить</string>
 </resources>
